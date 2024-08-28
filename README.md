@@ -7,6 +7,6 @@ Things to change (IR_OSC files):
 - const IPAddress outIP -> main PC IP
 
 Things to change (touchdesigner):
-- relink the audio/video files
+- relink the audio/video files (https://we.tl/t-BACyAr1v6U)
 
   Nice to do: set a fix IP on the PC and make sure that arduinos are disconnected whenever the PC is turned on for the first time (to avoid arduino stealing the ip).
